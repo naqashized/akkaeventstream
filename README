@@ -1,4 +1,4 @@
 #Akka Event Stream Sample code
-This is an SBT code in Scala language.
+This is an SBT based  Scala project.
 In this sample code, user actor subscribe to game actor. Game actor acts as a publisher and publishes a simple message to all its subscribers.
 Please have a look at code
